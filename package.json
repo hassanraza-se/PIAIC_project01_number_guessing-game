@@ -12,7 +12,7 @@
   "bin": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hassanraza-se/PIAIC_project00_calculator"
+    "url": "https://github.com/hassanraza-se/PIAIC_project01_number_guessing-game"
   },
   "keywords": [
     "cli",
